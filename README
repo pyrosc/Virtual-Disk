@@ -1,0 +1,6 @@
+VirtualDisk application for creating and managing virtual disks in Java
+
+- Maven 3.0.4
+- Java 7
+- SWT
+- Spring
